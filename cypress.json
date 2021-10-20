@@ -1,0 +1,12 @@
+{
+    "$schema": "https://on.cypress.io/cypress.schema.json",
+    "watchForFileChanges": false,
+    "taskTimeout": 6000,
+    "chromeWebSecurity": false,
+    "integrationFolder": "cypress/test",
+    "baseUrl": "https://www.esanum.de",
+        "viewportWidth": 1280,
+        "viewportHeight": 800
+
+    
+}

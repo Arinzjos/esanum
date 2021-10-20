@@ -1,0 +1,19 @@
+{
+  "name": "esanumit",
+  "version": "1.0.0",
+  "description": "Customers content testing",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "test": "cypress run"
+  },
+  "author": "Joseph",
+  "license": "ISC",
+  "dependencies": {
+    "@testing-library/cypress": "^8.0.1",
+    "cypress": "^8.6.0",
+    "cypress-iframe": "^1.0.1",
+    "cypress-real-events": "^1.5.1",
+    "cypress-xpath": "^1.6.2"
+  }
+}
